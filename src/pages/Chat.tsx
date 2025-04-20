@@ -204,17 +204,6 @@ const SAMPLE_MESSAGES = {
       status: "read",
       isMe: true,
     },
-    {
-      id: "m5",
-      content: "Thanks! I tried to make it more intuitive for users.",
-      sender: {
-        id: "alex",
-        name: "Alex Rodriguez",
-      },
-      timestamp: new Date(Date.now() - 3400000),
-      status: "delivered",
-      isMe: false,
-    },
   ],
   "3": [
     {

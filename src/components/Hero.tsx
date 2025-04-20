@@ -2,7 +2,6 @@
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import { ArrowRight, Download } from "lucide-react";
-import { ChatIllustration } from "./Illustrations";
 import { useState } from "react";
 
 export const Hero = () => {
