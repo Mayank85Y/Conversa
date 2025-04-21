@@ -9,7 +9,7 @@ export const ValueProposition = () => {
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold tracking-tight mb-4">Connect with Confidence</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            From casual chats to important conversations, Whisper keeps your messages private and secure.
+            From casual chats to important conversations, Conversa keeps your messages private and secure.
           </p>
         </div>
 

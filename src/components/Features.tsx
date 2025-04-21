@@ -4,7 +4,7 @@ export const Features = () => {
     <section className="py-16 bg-secondary/50">
       <div className="whisper-container">
         <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold mb-4">Why Whisper?</h2>
+          <h2 className="text-3xl font-bold mb-4">Why Conversa?</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             A minimalist messaging experience designed for simplicity and security.
           </p>
